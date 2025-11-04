@@ -7,6 +7,6 @@
 - 🎓 I’ve completed my **Master’s in Business Analytics from Dublin Business School**   
 - 📫 How to reach me:  
    - Email: **rahulpagar423@gmail.com**  
-   - LinkedIn: [linkedin.com/in/rahulpagar18](https://www.linkedin.com/in/rahulpagar18)  
+   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rahul-pagar1993)
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: *Everything feels complex until you break it down with data!*  
