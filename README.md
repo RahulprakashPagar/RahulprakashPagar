@@ -5,6 +5,8 @@
 - 👀 I’m interested in **Machine Learning, Deep Learning, Business Analytics, and Data analytics**  
 - 💡 I have strong skills in **Python, SQL, Power BI, Tableau, and Advanced Machine Learning Algorithms**  
 - 🎓 I’ve completed my **Master’s in Business Analytics from Dublin Business School**   
-- 📫 How to reach me: **rahulpagar18@gmail.com**  
+- 📫 How to reach me:  
+   - Email: **rahulpagar423@gmail.com**  
+   - LinkedIn: [linkedin.com/in/rahulpagar18](https://www.linkedin.com/in/rahulpagar18)  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: *Everything feels complex until you break it down with data!*  
