@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rahul Pagar<br>👀 I’m interested in Machine Learning, Deep Learning, Business Analytics, and Data analytics<br>💡 I have strong skills in Python, SQL, Power BI, Tableau, and Advanced Machine Learning Algorithms<br>🎓 I’ve completed my Master’s in Business Analytics from Dublin Business School<br>📫 How to reach me:<br>Email: rahulpagar423@gmail.com<br>Mobile no : +35389419589<br>LinkedIn: www.linkedin.com/in/rahul-pagar1993<br>😄 Pronouns: he/him<br>⚡ Fun fact: Everything feels complex until you break it down with data!
+👋 Hi, I’m Rahul Pagar<br>👀 I’m interested in Machine Learning, Deep Learning, Business Analytics, and Data analytics<br>💡 I have strong skills in Python, SQL, Power BI, Tableau, and Advanced Machine Learning Algorithms<br>🎓 I’ve completed my Master’s in Business Analytics from Dublin Business School<br>📫 How to reach me:<br>Mobile no : +35389419589<br>LinkedIn: www.linkedin.com/in/rahul-pagar1993<br>😄 Pronouns: he/him<br>⚡ Fun fact: Everything feels complex until you break it down with data!
 
 
 ## 🌐 Socials:
